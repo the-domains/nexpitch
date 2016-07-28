@@ -1,4 +1,3 @@
-layout_spectrum: 0.5410519272554666
 typography_spectrum: 0.16429948573932052
 color:
   brandStrength: 0.3224693920928985
@@ -6,9 +5,13 @@ color:
   saturation: 0.827730423072353
   rhythmicContrast: 0.9602360848803073
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+layout_spectrum: 0.5410519272554666
+author:
+  name: Erik Bakermans
+logo: null
 name: nexpitch
